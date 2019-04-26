@@ -1,0 +1,40 @@
+* {
+            box-sizing: border-box;
+        }
+
+        .column {
+            float: left;
+            width:20%;
+            padding: 5px;
+
+        }
+
+
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+        
+col-sm-1 sidenav{
+
+   height:1200px
+   background-color: #2F4F4F
+   
+
+}
+
+ul{
+  color:grey;
+
+}
+
+.card-body text-center {
+  background-color:white
+}
+
+
+i{
+  color:grey;
+}
+
